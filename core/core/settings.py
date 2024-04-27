@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'fresherstripDatabase',
         'USER': 'postgres',
-        'PASSWORD': 'daddyandmummy',
+        'PASSWORD': 'jenenenenebnebrbfbfb',
         'HOST': 'localhost'
     }
 }
